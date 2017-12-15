@@ -89,7 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gtaxlwifi/proprietary/lib/lib_SoundBooster_ver700.so:system/lib/lib_SoundBooster_ver700.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
-    vendor/samsung/gtaxlwifi/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libcodecdump.so:system/lib/libcodecdump.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libcsc.so:system/lib/libcsc.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
@@ -99,6 +98,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gtaxlwifi/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libpreprocessing_nxp.so:system/lib/libpreprocessing_nxp.so \
+    vendor/samsung/gtaxlwifi/proprietary/lib/libprotobuf-cpp-shim.so:system/lib/libprotobuf-cpp-shim.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libSamsungPostProcess.so:system/lib/libSamsungPostProcess.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libSamsungPostProcessConvertor.so:system/lib/libSamsungPostProcessConvertor.so \
     vendor/samsung/gtaxlwifi/proprietary/lib/libSamsungPreProcess.so:system/lib/libSamsungPreProcess.so \
